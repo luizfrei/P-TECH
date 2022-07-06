@@ -15,6 +15,7 @@ function App() {
         <Route path="/:uri" element={<Pokemon/>} />
       </Routes>
       </div>
+      
       <Footer/>
     </div>
   )
